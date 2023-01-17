@@ -1,8 +1,4 @@
-/**
-   ESP32 + DHT22 Example for Wokwi
-   
-   https://wokwi.com/arduino/projects/322410731508073042
-*/
+
 
 #include "DHTesp.h"
 #include <FirebaseESP32.h>
